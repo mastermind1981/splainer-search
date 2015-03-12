@@ -6,7 +6,7 @@
     "Doug Turnbull <dturnbull@opensourceconnections.com>"
   ],
   "description": "Demo",
-  "keywords": [],
+  "keywords": ["solr", "angular","angularjs", "faceted search", "faceted"],
   "license": "MIT",
   "ignore": [
     "**/.*",
